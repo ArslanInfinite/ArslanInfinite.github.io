@@ -1,11 +1,11 @@
 # Site settings
 author: Arslan Ali
-title: 
+title: Arslan's Mandatory Blog
 header-img: img/home-bg.png
 email: ali.arslan319@gmail.com
 copyright_name: Arslan Ali
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Detailing the journey of my software development learning experience
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ArslanInfinite
